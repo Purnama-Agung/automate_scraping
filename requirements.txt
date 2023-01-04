@@ -1,0 +1,7 @@
+undetected-chromedriver==2.2.7
+selenium==4.7.2
+requests==2.28.1
+PyVirtualDisplay==3.0
+python-dateutil==2.8.2
+pyquery==2.0.0
+beautifulsoup4==4.11.1
